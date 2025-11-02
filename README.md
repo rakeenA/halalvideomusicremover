@@ -1,6 +1,6 @@
 # Halal Video Music Remover
 
-**Easily download videos and remove haram background music using AI.**
+**Easily download videos on youtube (or other platforms) and remove background music using AI.**
 
 
 [<img width="820" height="332" alt="New Project (3)" src="https://github.com/user-attachments/assets/5f521e46-f4ec-46a6-9bba-a1d9453579d5" />](https://www.patreon.com/cw/rakeenalmuslim)
