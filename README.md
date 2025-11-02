@@ -14,6 +14,8 @@
 - Works on Windows—just double-click and run
 - No technical setup required
 
+essentially, you can quickly & easily remove the music from a video just by entering the link of that video on youtube or any platform supported by yt-dlp. may Allah make it easy for us!
+
 ---
 
 ## ⚡ Quick Start (Windows)
