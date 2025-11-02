@@ -2,6 +2,8 @@
 
 **Easily download videos and remove haram background music using AI.**
 
+[![fb6f5aa7-2895-4075-89fd-f38485cf726f](https://github.com/user-attachments/assets/6439c7a9-f280-4f0f-ab92-5fa531fba15f)](https://www.patreon.com/cw/rakeenalmuslim)
+
 ---
 
 ## 🚀 Features
