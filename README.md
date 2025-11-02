@@ -23,7 +23,7 @@
 <img width="670" height="430" alt="Screenshot 2025-11-02 213757" src="https://github.com/user-attachments/assets/c9233c22-ff9f-4b99-9651-a524cbf60a23" />
 
 
-1. [Download the ZIP from Releases](https://github.com/rakeenA/halalvideomusicremover/releases)
+1. [Download the Source Code ZIP from Releases](https://github.com/rakeenA/halalvideomusicremover/releases)
 2. Extract all files to a folder
 3. Double-click `RUN.bat`
 
