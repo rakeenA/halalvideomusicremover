@@ -8,3 +8,5 @@ QUICK STARTUP GUIDE
 3. Extract all
 4. Launch RUN.BAT
 5. Enter your link
+
+did I save your time? help me seek knowledge: https://www.patreon.com/cw/rakeenalmuslim
