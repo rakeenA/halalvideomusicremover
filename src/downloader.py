@@ -3,7 +3,7 @@ Video downloader module using yt-dlp
 """
 import yt_dlp
 from pathlib import Path
-from config import Config
+from src.config import Config
 import threading
 
 class VideoDownloader:

@@ -49,9 +49,9 @@ def setup_ffmpeg_path():
 setup_ffmpeg_path()
 # ===== END NEW =====
 
-from config import Config
-from downloader import VideoDownloader
-from music_remover import MusicRemover
+from src.config import Config
+from src.downloader import VideoDownloader
+from src.music_remover import MusicRemover
 
 class VideoDownloaderApp:
     def __init__(self, root):

@@ -4,7 +4,7 @@ Music removal module using Demucs
 import subprocess
 import shutil
 from pathlib import Path
-from config import Config
+from src.config import Config
 import ffmpeg
 import os
 
