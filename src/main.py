@@ -565,7 +565,7 @@ class VideoDownloaderApp:
     def open_donate_link(self):
         """Open donate link"""
         # Replace this URL with your actual donation link
-        donation_url = "https://buymeacoffee.com/yourname"
+        donation_url = "https://www.patreon.com/cw/rakeenalmuslim"
         
         try:
             webbrowser.open(donation_url)
