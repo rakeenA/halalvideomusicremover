@@ -1,0 +1,7 @@
+yt-dlp>=2024.8.0
+demucs>=4.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+ffmpeg-python>=0.2.0
+Pillow>=10.0.0
+soundfile>=0.12.0
