@@ -16,19 +16,19 @@
 
 Supported Platforms:
 
-YouTube
-Vimeo
-Dailymotion
-TikTok
-Facebook (public videos)
-Instagram (posts, reels, IGTV)
-Twitter / X
-Twitch (VODs, clips)
-Odysee / LBRY
-Bilibili
-Rumble
-Reddit videos
-& more
+- YouTube
+- Vimeo
+- Dailymotion
+- TikTok
+- Facebook (public videos)
+- Instagram (posts, reels, IGTV)
+- Twitter / X
+- Twitch (VODs, clips)
+- Odysee / LBRY
+- Bilibili
+- Rumble
+- Reddit videos
+- & more
 
 essentially, you can quickly & easily remove the music from a video just by entering the link of that video on youtube or any platform supported by yt-dlp. may Allah make it easy for us!
 
