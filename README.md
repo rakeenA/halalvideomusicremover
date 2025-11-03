@@ -16,7 +16,7 @@
 
 Supported Platforms:
 
-YouTube 
+YouTube
 Vimeo
 Dailymotion
 TikTok
