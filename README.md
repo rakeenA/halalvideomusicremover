@@ -1,6 +1,6 @@
 # Halal Video Music Remover
 
-**Easily download videos from youtube (or other platforms) and remove background music using AI.**
+**Easily download videos from youtube, instagram, twitter, tiktok (or other platforms) and remove background music using AI.**
 
 
 [<img width="820" height="332" alt="New Project (3)" src="https://github.com/user-attachments/assets/5f521e46-f4ec-46a6-9bba-a1d9453579d5" />](https://www.patreon.com/cw/rakeenalmuslim)
@@ -13,6 +13,22 @@
 - Remove background music with Demucs (AI model)
 - Works on Windows—just double-click and run
 - No technical setup required
+
+Supported Platforms:
+
+YouTube 
+Vimeo
+Dailymotion
+TikTok
+Facebook (public videos)
+Instagram (posts, reels, IGTV)
+Twitter / X
+Twitch (VODs, clips)
+Odysee / LBRY
+Bilibili
+Rumble
+Reddit videos
+& more
 
 essentially, you can quickly & easily remove the music from a video just by entering the link of that video on youtube or any platform supported by yt-dlp. may Allah make it easy for us!
 
