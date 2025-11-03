@@ -532,7 +532,7 @@ class VideoDownloaderApp:
 
         response = messagebox.askyesno(
             "Success!",
-            f"Video processed successfully!\n\nOutput: {Path(output_path).name}\n\nDo you want to open the output folder?",
+            f"Video processed successfully! If I helped you in any way, you can make a donation by pressing Support Developer. \n\nOutput: {Path(output_path).name}\n\nDo you want to open the output folder?",
             icon='info'
         )
 
