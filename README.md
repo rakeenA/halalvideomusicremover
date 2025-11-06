@@ -44,10 +44,14 @@ essentially, you can quickly & easily remove the music from a video just by ente
 1. [Download the Source Code ZIP from Releases](https://github.com/rakeenA/halalvideomusicremover/releases)
 2. Extract all files to a folder
 3. Double-click `RUN.bat`
+4. Image below:
+<img width="1080" height="1080" alt="New Project (4)" src="https://github.com/user-attachments/assets/fe9ffaa0-f6d3-4709-b7fc-a28b83f03a4e" />
+
 
 **On first run:**  
 - The AI Demucs model (~300MB) will download automatically (only once)
 - Make sure you have an internet connection
+
 
 ---
 
